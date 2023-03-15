@@ -1,1 +1,1 @@
-My first bash script shell permission
+My first bash script, SHELL PERMISSIONS
